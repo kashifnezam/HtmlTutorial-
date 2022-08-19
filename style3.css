@@ -4,5 +4,20 @@
 h1{
   font-family: 'Bree Serif', serif;
   color: blue;
-  padding: 30px;
+  background-color: #7FFFD4;
+  width: 320px;
+  margin: 20px auto;
+  text-align: center;
 }
+.para1 {
+  font-family: 'Bree Serif', serif;
+  color: #4B0082;
+  width: 320px;
+  border: 2px solid black;
+  margin: 20px auto;
+}
+p1{
+  text-align: center;
+  display: inline-block;
+}
+
