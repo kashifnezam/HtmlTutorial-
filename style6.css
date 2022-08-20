@@ -1,0 +1,19 @@
+html{
+  border: 2px solid blue;
+  width: 300px;
+  height: 500px;
+  margin: 1rem;
+}
+p{
+  padding: 0.5rem;
+  border: 2px solid blue;
+  position: static;
+  top: 50%;
+  left: 50%;
+  background-color: brown;
+  
+}
+h3{
+  padding: 0.5rem;
+  border: 2px solid cyan;
+}
